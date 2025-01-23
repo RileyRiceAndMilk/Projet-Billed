@@ -1,0 +1,51 @@
+.title-filter {
+        margin-bottom: 30px;
+        text-align: left; 
+        justify-content: left; 
+        align-items: flex-start; 
+        width: 100%; 
+        display: flex; 
+    }
+    
+    .filter-container {
+        display: flex;
+        flex-direction: column; 
+        justify-content: flex-start; 
+        align-items: center;
+        width: 100%;
+    }
+    
+    .filtres_1
+     {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        gap: 5px;
+    }
+
+    .filtres_2 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        gap: 5px;
+    }
+    .white-button {
+        background-color: white;
+        color: black;
+        width: 200px;
+        padding: 30px 32px;
+        font-size: 16px;
+        border: 1px solid gray;
+        border-radius: 30px;
+        cursor: pointer;
+        margin-bottom: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: 5px;
+    }
